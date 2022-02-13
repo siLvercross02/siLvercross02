@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Joemari Supan
 - 👀 I’m interested in Web and Mobile Development
 - 🌱 I’m currently learning react-native
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me:
   Email: joemari.supan18@gmail.com
 
